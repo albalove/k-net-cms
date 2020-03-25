@@ -106,7 +106,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
   <nav class="navbar navbar-light bg-light">
   <a class="navbar-brand" href="#">
     <img src="knet logo.png" width="300" height="60" class="d-inline-block align-top" alt="">
-	<a class="nav-link active justify-content-center" href="#"><h2 class="bg-light">Complaint Management System</h2></a>
+	<a class="nav-link active justify-content-center" href="#"><h2 class="bg-light">Complaint Management System (CMS)</h2></a>
 			  
   </a>
 </nav>
